@@ -1,0 +1,84 @@
+body {
+  background-color: gainsboro;
+  font-family: sans-serif;
+}
+
+#header {
+  background-color: dodgerblue;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  padding: 8px;
+}
+
+.subheader {
+  background-color: tomato;
+}
+
+h2 {
+  color: white;
+  padding: 8px;
+}
+
+hr {
+  border: 0.5px solid tomato;
+}
+
+.color {
+  background-color: rgb(165, 162, 162);
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+#tomato {
+  height: 50px;
+  width: 50px;
+  background-color: tomato;
+  margin: 5px;
+}
+
+#blue {
+  height: 50px;
+  width: 50px;
+  background-color: dodgerblue;
+  margin: 5px 5px 5px 5px;
+}
+
+.inline {
+  display: flex;
+  flex-direction: row;
+}
+
+.nametom {
+  color: tomato;
+  font-weight: bold;
+}
+
+.nameblue {
+  color: dodgerblue;
+  font-weight: bold;
+}
+
+img {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+.headred {
+  color: tomato;
+}
+
+.bluehead {
+  color: dodgerblue;
+}
+
+.red {
+  color: tomato;
+}
+
+.blue {
+  color: dodgerblue;
+}
